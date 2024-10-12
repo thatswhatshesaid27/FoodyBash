@@ -26,9 +26,18 @@ Ensure you have the following installed on your local machine:
 - **Node.js**: [Download Node.js](https://nodejs.org/en/download/)
 - **Git**: [Download Git](https://git-scm.com/downloads)
 
-### Installation
+### Installation & Execution
 
 1. **Clone the Repository**:
 
    ```bash
    git clone -b main https://github.com/your-username/foodybash.git
+   cd foodybash
+    cd app
+    npm install
+   cd ../server
+    npm install
+   npm run start
+
+
+
