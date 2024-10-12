@@ -33,10 +33,10 @@ Ensure you have the following installed on your local machine:
    ```bash
    git clone -b main https://github.com/your-username/foodybash.git
    cd foodybash
-    cd app
-    npm install
+   cd app
+   npm install
    cd ../server
-    npm install
+   npm install
    npm run start
 
 
