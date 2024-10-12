@@ -1,0 +1,12 @@
+# Ignore node_modules for both app and server
+app/node_modules/
+server/node_modules/
+
+# Ignore other unnecessary files
+*.log
+package-lock.json
+.env
+.DS_Store
+dist/
+build/
+coverage/
