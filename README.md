@@ -39,7 +39,7 @@ Ensure you have the following installed on your local machine:
    npm install
    npm run start
 
-###Technologies Used
+## Technologies Used
 - Frontend: React, Styled-components, JavaScript (with hooks)
 - Backend: Express.js, Node.js
 - Styling: CSS-in-JS (Styled-components)
